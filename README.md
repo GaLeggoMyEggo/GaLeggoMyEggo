@@ -1,3 +1,4 @@
+![Banner](./Galeggomyeggo server.png)
 ## Hi there 👋
 
 <!--
