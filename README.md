@@ -1,6 +1,11 @@
-![Banner](./Galeggomyeggo server.png)
-## Hi there 👋
+<img src="Galeggomyeggo server.png" width="800">
 
+# Hi, I’m Sam 👋
+### Research → Tech | Cloud & Systems | Human-Centered Technology
+
+I’m a former healthcare research professional transitioning into cloud and systems administration through the Microsoft Software & Systems Academy (MSSA).
+
+I’m passionate about using technology to improve access, equity, and real-world outcomes.
 <!--
 **GaLeggoMyEggo/GaLeggoMyEggo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
