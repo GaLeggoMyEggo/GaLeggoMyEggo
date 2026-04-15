@@ -2,11 +2,8 @@
 
 # Hi, I’m Sam 👋
 😄 Pronouns: She/Her
-### Research → Tech | Cloud & Systems | Human-Centered Technology
-
-I’m a former healthcare research professional transitioning into cloud and systems administration through the Microsoft Software & Systems Academy (MSSA).
-
-I’m passionate about using technology to improve access, equity, and real-world outcomes.
+### Research → Tech
+Cloud & Systems | Human-Centered Technology
 
 ## 👤 About Me
 
