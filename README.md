@@ -1,4 +1,4 @@
-<img src="Galeggomyeggo server.png" width="800">
+<img src="ChatGPT Image Apr 15, 2026, 05_45_05 PM.png" width="800">
 
 # Hi, I’m Sam 👋
 😄 Pronouns: She/Her
